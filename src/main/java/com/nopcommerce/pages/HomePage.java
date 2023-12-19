@@ -8,6 +8,7 @@ public class HomePage extends Utility {
     By loginLink = By.className("ico-login");
 
    public void clickOnLoginLink(){
+
        clickOnElement(loginLink);
    }
 
